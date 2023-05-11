@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Camila
-- 👀 I’m interested in developers
+- 👀 I’m interested in develop
 - 🌱 I’m currently learning with self-taught studies
 - 📫 How to reach me lopezfredes.camila@gmail.com
 
